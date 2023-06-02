@@ -1,1 +1,36 @@
-
+body {
+    font-family: sans-serif;
+}
+.ppp{
+ border-right: dotted 9px;
+ margin: 60px;
+}
+.iei{
+    border-radius: 30px;
+    border:1px solid ;
+    text-align: center;
+    font-size: 20px;
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+}
+.navi{
+    text-align: center;
+    margin: 10px 0px;
+}  
+.navigation{
+  
+    padding-right: 60px;
+    color:black;
+ 
+}
+footer{
+    background-color: black;
+}
+p{
+    background-color: white;
+}
+.tug{
+background-color: white;
+}
